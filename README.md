@@ -1,4 +1,4 @@
-# taskreminder
+# Task Reminder
 
 A new Flutter project.
 
